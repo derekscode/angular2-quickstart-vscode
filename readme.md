@@ -14,6 +14,8 @@ Quick start boilerplate code for Angular 2 app using Visual Studio Code.
 - Github.com > New
 - Copy 2 lines and paste into command prompt to push local repo to Github
 - change readme.md to reflect new repo
+- change package.json name to reflect new repo\
+- npm install
 
 
 
