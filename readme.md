@@ -1,7 +1,7 @@
 # angular2-quickstart-vscode
 Quick start boilerplate code for Angular 2 app using Visual Studio Code.
 
-
+https://github.com/angular/quickstart - Might want to use the readme.md here to adjust my readme. Or possibly use this quickstart project instead of this current one. Only thing is, it might not have the right files for VSCode.
 
 **How to create a new repo using this as a boilerplate**
 (http://stackoverflow.com/questions/10963878/how-do-you-fork-your-own-project-on-github)
